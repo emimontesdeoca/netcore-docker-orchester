@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DockerNetOrchester.Agent": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

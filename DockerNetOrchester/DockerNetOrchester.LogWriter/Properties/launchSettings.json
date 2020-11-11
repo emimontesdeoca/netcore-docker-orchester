@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DockerNetOrchester.LogWriter": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
