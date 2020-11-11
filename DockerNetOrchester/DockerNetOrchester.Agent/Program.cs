@@ -52,6 +52,9 @@ namespace DockerNetOrchester.Agent
 
                     listFinishedJobs.Add(item.Id);
                     Log($"Finished job with id: {item.Id}");
+
+                    // Done
+                    ctx.SaveChanges();
                 }
 
                 // Cleanup
